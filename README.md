@@ -7,7 +7,7 @@ This project showcases my skills, projects, certifications, and internship exper
 
 ## 📌 About Me
 
-🎓 B.Tech – Computer Science and Business Systems (2023–2027)  
+🎓 B.Tech – Computer Science and Business Systems (2024–2028)  
 💼 Aspiring Web Developer | Frontend Enthusiast | Tech Learner  
 📍 Based in Tamil Nadu, India  
 
